@@ -1,5 +1,5 @@
 # y
-
+settings.json 文件是vscode编辑器vetur和psioniq File Header 插件的配置
 > y
 
 ## Build Setup
